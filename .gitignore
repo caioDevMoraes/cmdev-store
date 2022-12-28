@@ -10,4 +10,5 @@ node_modules
 # Ignore arquivos de configuração de SASS
 .sass-cache
 
+# ignore os arquivos package-lock.json
 package-lock.json
